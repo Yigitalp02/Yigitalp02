@@ -1,3 +1,5 @@
+# Yiğit Alp Bilgin  &nbsp; &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/yi%C4%9Fit-alp-bilgin-964444148/)
+
 # 💫 About Me:
 I’m Yiğit Alp Bilgin, a Senior Software Engineering student at Istanbul Technical University and a Junior Frontend & App Developer at Compuvi. <br>I like building clean, user-friendly web, desktop and mobile apps and occasionally tinkering with game development. <br>I enjoy learning new tools, experimenting with my code, and exploring what’s next in tech.
 
