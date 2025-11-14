@@ -4,6 +4,10 @@ I’m Yiğit Alp Bilgin, a Senior Software Engineering student at Istanbul Techn
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yigitalp_bilgin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yiğit-alp-bilgin-964444148) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bilginyigitalp03@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Yigitalp02&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Yigitalp02&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yigitalp02&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 💻 Tech Stack
 
@@ -81,10 +85,7 @@ I’m Yiğit Alp Bilgin, a Senior Software Engineering student at Istanbul Techn
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yigitalp02&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yigitalp02&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yigitalp02&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 ---
