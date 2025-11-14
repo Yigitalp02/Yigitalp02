@@ -7,7 +7,6 @@ I’m Yiğit Alp Bilgin, a Senior Software Engineering student at Istanbul Techn
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Yigitalp02&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Yigitalp02&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yigitalp02&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 💻 Tech Stack
 
